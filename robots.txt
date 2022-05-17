@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /assets/
-Disallow: /resources/library/
-Disallow: /resources/logs/
